@@ -1,10 +1,5 @@
 <div align="center">
 
-<p>
-  <img src="https://d.uguu.se/TCQZVSTb.jpg" alt="left" width="49%" />
-  <img src="https://h.uguu.se/nGqcdhzW.jpg" alt="right" width="49%" />
-</p>
-
 <img src="https://d.uguu.se/UDHwDtqm.jpg" alt="banner" width="100%" />
 
 # hey. i'm ulas.
