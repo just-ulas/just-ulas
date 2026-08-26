@@ -9,6 +9,15 @@ just a person who writes code, breaks things, fixes them, and somehow keeps goin
 [![followers](https://img.shields.io/github/followers/just-ulas?label=followers&style=flat&color=black&labelColor=black)](https://github.com/just-ulas?tab=followers)
 [![stars](https://img.shields.io/github/stars/just-ulas?affiliations=OWNER&style=flat&color=black&labelColor=black)](https://github.com/just-ulas)
 
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=just-ulas&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=just-ulas&theme=dark&hide_border=true&background=0d1117" height="160" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-ulas&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="160" />
+
 </div>
 
 <br>
