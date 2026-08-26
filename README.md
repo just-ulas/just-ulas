@@ -5,6 +5,8 @@
   <img src="https://h.uguu.se/nGqcdhzW.jpg" alt="right" width="49%" />
 </p>
 
+<img src="https://d.uguu.se/UDHwDtqm.jpg" alt="banner" width="100%" />
+
 # hey. i'm ulas.
 
 just a person who writes code, breaks things, fixes them, and somehow keeps going.
