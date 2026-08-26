@@ -13,6 +13,14 @@ just a person who writes code, breaks things, fixes them, and somehow keeps goin
 
 <br>
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=just-ulas&theme=onedark&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 ---
 
 ### the short version
