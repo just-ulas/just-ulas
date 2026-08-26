@@ -11,12 +11,11 @@ just a person who writes code, breaks things, fixes them, and somehow keeps goin
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=just-ulas&show_icons=true&theme=transparent&hide_border=true&title_color=333&icon_color=555&text_color=555" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=just-ulas&theme=transparent&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=just-ulas&show_icons=true&theme=default&hide_border=true" />
 
-<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=just-ulas&theme=default&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-ulas&layout=compact&theme=transparent&hide_border=true&title_color=333&text_color=555" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=just-ulas&layout=compact&theme=default&hide_border=true" />
 
 </div>
 
