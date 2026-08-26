@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://h.uguu.se/XZeVnyba.jpg" alt="banner" width="100%" />
+
 # hey. i'm ulas.
 
 just a person who writes code, breaks things, fixes them, and somehow keeps going.
